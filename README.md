@@ -10,6 +10,7 @@
 ## Requirements:
 pip install scapy
 
+-----------------------------------------------------------------------------------------------------
 
 # BPFdoor Sender [IN DEVELOPMENT]
 [!] This script sends a crafted UDP packet containing a hidden base64-encoded shell command.
